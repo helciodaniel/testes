@@ -1,0 +1,7 @@
+:root {
+    --myValor: #1655dd;
+}
+
+body {
+    background-color: var(--myValor);
+}
